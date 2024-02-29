@@ -13,6 +13,7 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
+    size : "h-52 md:h-72"
   },
   {
     id: 2,
