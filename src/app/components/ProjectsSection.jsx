@@ -26,7 +26,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Projek 2",
+    title: "Projek 1",
     description: "Projek VB.Net 1",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
